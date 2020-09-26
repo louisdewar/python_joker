@@ -111,7 +111,7 @@ one line''', '''Some more text that is in another element
 of the list''']
 ```
 
-### Back to the coding:
+### Making your own joker program:
 
 1. Try to come up with some jokes for the program to say. If you can't think of anything to say look up some jokes online.
 2. Create an array called `jokes` with a few of the best jokes you've found (make sure you have at least 2 jokes). Each element of the array should be one joke.
